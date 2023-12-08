@@ -1,0 +1,22 @@
+SMAP
+AddPerson_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddPerson.jsp
+AddPerson.jsp
++ 1 all_css.jsp
+all_css.jsp
++ 2 navbar.jsp
+navbar.jsp
+*L
+5,9:50
+5#1,16:59
+13#0,4:75
+5#2,37:79
+16#0,7:116
+23,2:123,3
+25,2:129
+27,2:131,3
+29,35:137
+*E

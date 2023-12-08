@@ -1,0 +1,22 @@
+SMAP
+BookDetail_jsp.java
+JSP
+*S JSP
+*F
++ 0 BookDetail.jsp
+BookDetail.jsp
++ 1 all_css.jsp
+all_css.jsp
++ 2 navbar.jsp
+navbar.jsp
+*L
+5,12:52
+5#1,16:64
+16#0,4:80
+5#2,37:84
+19#0,5:121
+24,3:127
+26,3:130
+29:133,3
+30,24:136
+*E

@@ -1,0 +1,24 @@
+SMAP
+UserProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 UserProfile.jsp
+UserProfile.jsp
++ 1 all_css.jsp
+all_css.jsp
++ 2 user_navbar.jsp
+user_navbar.jsp
+*L
+5,13:54
+5#1,16:67
+17#0,5:83
+22,12:89
+33,4:101
+5#2,29:105
+36#0,17:133
+53,13:151
+65:164
+66,3:165,3
+69,12:174
+*E
